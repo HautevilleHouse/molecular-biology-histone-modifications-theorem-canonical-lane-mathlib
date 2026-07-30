@@ -1,0 +1,11 @@
+import canonicalLaneMathlib.AdmissibleClass
+import HautevilleHouse.MolecularBiologyHistoneModificationsTheoremCanonicalLaneLean.GeneExpressionEndpoint
+
+namespace HautevilleHouse
+namespace MolecularBiologyHistoneModificationsTheoremCanonicalLaneLean
+
+def histoneCodeBridgeClosed (A : AdmissibleClass) : Prop :=
+  (bridgeClosed A) ∧ (gateClosed A)
+
+end MolecularBiologyHistoneModificationsTheoremCanonicalLaneLean
+end HautevilleHouse
